@@ -4,6 +4,14 @@ This website is developed as a summer training 'FrontEnd' project.
 The website uses REST API `clist.by` to show a list of various competitive programming constests.
 The technologies used are React (Typescript) and TailwindCSS.
 
+# Resources
+
+ICONS =>
+https://www.pngaaa.com/
+http://tathastu.twowaits.in/kickstart_cp_cpp.html
+https://www.glassdoor.co.in/Overview/Working-at-Topcoder-EI_IE1944000.11,19.htm
+https://icons8.com/icons/set/upcoming
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
